@@ -1,3 +1,2 @@
 # ProyectoEjemplo
-
-Autor: LuisG como estas espero que esten bien
+Este readme es una prueba, estoy aprendiendo a usar git y github
