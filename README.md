@@ -1,2 +1,3 @@
 # ProyectoEjemplo
-Mi primer repositorio
+
+Autor: LuisG como estas espero que esten bien
